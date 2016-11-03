@@ -1,8 +1,6 @@
 // A local search script with the help of [hexo-generator-search](https://github.com/PaicHyperionDev/hexo-generator-search)
-// Copyright (C) 2015 
-// Joseph Pan <http://github.com/wzpan>
-// Shuhao Mao <http://github.com/maoshuhao>
-// Edited by MOxFIVE <http://github.com/MOxFIVE>
+// Copyright (C) 2015
+// Edited by Jake <http://github.com/JakeLaoyu>
 
 var searchFunc = function(path, search_id, content_id) {
     'use strict';
