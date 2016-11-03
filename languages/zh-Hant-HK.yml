@@ -39,11 +39,7 @@ tooltip:
   go2bottom: 轉到底部
   copyPath: 點擊複製文章鏈接
   Hexo: "快速、簡潔且高效的博客框架"
-<<<<<<< HEAD
   Confidante: 簡而不減 Hexo 雙欄博客主題
-=======
-  Confidante: 簡而不減 Hexo 雙欄博客主題
->>>>>>> 9367c06a53e69cf8b145e499f945042ad70fa115
 
 tag_cloud:
   already: 已有

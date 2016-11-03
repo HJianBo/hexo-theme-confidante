@@ -40,11 +40,7 @@ tooltip:
   go2bottom: Go to Bottom
   copyPath: "Copy Article's Link & Author"
   Hexo: "A fast, simple & powerful blog framework"
-<<<<<<< HEAD
   Confidante: Another simple and elegant theme for Hexo
-=======
-  Confidante: Another simple and elegant theme for Hexo
->>>>>>> 9367c06a53e69cf8b145e499f945042ad70fa115
 
 tag_cloud:
   already: " "
