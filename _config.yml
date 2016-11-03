@@ -1,5 +1,9 @@
 # Theme Version | 当前版本
+<<<<<<< HEAD
 Confidante: "3.5"
+=======
+Confidante: "3.5"
+>>>>>>> 9367c06a53e69cf8b145e499f945042ad70fa115
 
 # >>> Basic Setup | 基础设置 <<<
 
@@ -114,8 +118,13 @@ youyan:
 # >>> Style Customisation 样式自定义 <<<
 
 # Background | 背景
+<<<<<<< HEAD
 ## "5": show images form bg-1.jpg to bg-5.jpg in `/confidante/source/background/`
 ## "5": 显示`/confidante/source/background/`文件夹中 bg-1.jpg 到 bg-5.jpg 这5张图片
+=======
+## "5": show images form bg-1.jpg to bg-5.jpg in `/Confidante/source/background/`
+## "5": 显示`/Confidante/source/background/`文件夹中 bg-1.jpg 到 bg-5.jpg 这5张图片
+>>>>>>> 9367c06a53e69cf8b145e499f945042ad70fa115
 ## "0": white-gray background | 淳朴灰白背景
 background_image: 24
 
@@ -141,7 +150,11 @@ blockquote_style:
   # 自定义文章「引用部分」的样式
 
 # Headings Style | 标题风格
+<<<<<<< HEAD
 ## 0-confidante, 1-Yilia, 2-GitHub
+=======
+## 0-Confidante, 1-Yilia, 2-GitHub
+>>>>>>> 9367c06a53e69cf8b145e499f945042ad70fa115
 heading_style: 0 # Value: 0 - 2
 
 ## List style type (ul) | 无序列表项标记样式
