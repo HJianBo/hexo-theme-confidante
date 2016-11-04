@@ -7,7 +7,7 @@ Confidante: "3.5"
 ## About Page: `hexo new page about`
 ## Tags Cloud Page: `hexo new page tags`
 menu:
-  博客首页: http://jakeyu.top/Home
+  博客首页: http://i.jakeyu.top/Home
   文章归档: /archives
   #随笔: /tags/随笔
   # 标签云: /tags
@@ -117,7 +117,7 @@ youyan:
 ## "5": show images form bg-1.jpg to bg-5.jpg in `/Confidante/source/background/`
 ## "5": 显示`/Confidante/source/background/`文件夹中 bg-1.jpg 到 bg-5.jpg 这5张图片
 ## "0": white-gray background | 淳朴灰白背景
-background_image: 24
+background_image: 21
 
 # Base Font Size | 字号调节
 base_font_size: 16  #px, 16 - 24
@@ -253,7 +253,7 @@ share:
 
 # 百度、谷歌站长验证。填写 HTML 标签 content
 # Site Verification for Google and Baidu. HTML label content.
-baidu_site: XJI7cVSos1
+baidu_site: LcXTPmQBZN
 google_site: cz8Mg3uYnDt-czcMDitsmcjurvx-XknIM7wRb1-TNNo
 
 # Fill in Google Analytics tracking ID, #e.g. UA-XXXXX-X
