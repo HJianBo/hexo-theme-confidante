@@ -41,16 +41,16 @@ since: 2016
 ## https://github.com/hexojs/hexo-generator-feed
 
 subnav:
-  Email: "http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=hO7l7_Ho5ev98cTy7fSq9fWq5_vp"
-  新浪微博: "http://weibo.com/uc271756460"
-  GitHub: "https://github.com/JakeLaoyu"
+  Email: ""
+  新浪微博: ""
+  GitHub: ""
   #V2EX: "#"
   RSS: "/atom.xml"
   #知乎: "zhihu"
   #豆瓣: "douban"
   #简书: "jianshu"
-  掘金: "http://gold.xitu.io/user/57c571fd0a2b58006c0847de"
-  SegmentFault: "https://segmentfault.com/u/jakeyu"
+  掘金: ""
+  SegmentFault: ""
   #博客园: "cnblogs"
   #CSDN: ""
   #Coding: ""
@@ -100,7 +100,7 @@ disqus:
 
 duoshuo: 
   on: true
-  domain: jakeyu
+  domain: 
   # 是否开启多说评论，http://duoshuo.com/create-site/
   # 使用上面网址登陆你的多说，然后创建站点，在 domain 中填入你设定的域名前半部分
   # http://<要填的部分>.duoshuo.com (domain只填上<>里的内容，不要填整个网址)
@@ -258,15 +258,15 @@ share:
 
 # 百度、谷歌站长验证。填写 HTML 标签 content
 # Site Verification for Google and Baidu. HTML label content.
-baidu_site: LcXTPmQBZN
-google_site: cz8Mg3uYnDt-czcMDitsmcjurvx-XknIM7wRb1-TNNo
+baidu_site: 
+google_site: 
 
 # Fill in Google Analytics tracking ID, #e.g. UA-XXXXX-X
 google_analytics: 
 
 # 百度统计 http://sitecenter.baidu.com/sc-web/
 # 查看代码，填入 //hm.baidu.com/hm.js? 之后的内容
-baidu_tongji: e1bd65b2ac5b87c4c3080e59bca61f25
+baidu_tongji: 
 
 # 不蒜子网站计数设置
 # http://ibruce.info/2015/04/04/busuanzi/
