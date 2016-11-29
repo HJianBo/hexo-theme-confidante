@@ -7,10 +7,11 @@ Confidante: "3.5"
 ## About Page: `hexo new page about`
 ## Tags Cloud Page: `hexo new page tags`
 menu:
-  博客首页: http://i.jakeyu.top/Home
+  博客首页: http://home.jakeyu.top
   文章归档: /archives
+  留言板: /about
+  标签: /tags
   #随笔: /tags/随笔
-  # 标签云: /tags
   # 关于我: http://jakeyu.top/Home
 
 # Link to your avatar | 填写头像地址
@@ -48,7 +49,8 @@ subnav:
   #知乎: "zhihu"
   #豆瓣: "douban"
   #简书: "jianshu"
-  #SegmentFault: ""
+  掘金: "http://gold.xitu.io/user/57c571fd0a2b58006c0847de"
+  SegmentFault: "https://segmentfault.com/u/jakeyu"
   #博客园: "cnblogs"
   #CSDN: ""
   #Coding: ""
@@ -127,17 +129,17 @@ base_font_size: 16  #px, 16 - 24
 color_scheme: 
 
 highlight_style:
-  #on: true
-  inline_code: 1  # Value: 0 - 9 可选
-  code_block: 1  # Value: 0 - 4
+  on: true
+  inline_code: 9  # Value: 0 - 9 可选
+  code_block: 2  # Value: 0 - 4
   # Set inline_code to style highlight text
   # Chose a highlight theme for code block
   # 通过 inline_code 切换内置文本高亮样式
   # 通过 code_block 切换内置代码高亮配色主题
 
 blockquote_style:
-  #on: true
-  blockquote: 1  # Value: 0 - 7 可选
+  on: true
+  blockquote: 4  # Value: 0 - 7 可选
   # 自定义文章「引用部分」的样式
 
 # Headings Style | 标题风格
@@ -183,7 +185,10 @@ tagcloud: true
 friends:
   Kieran: http://go.kieran.top
   Eric: http://3riccc.github.io
-#friends: false
+  Techrex: http://www.techrex.net/
+  Bin16: http://bin16.farbox.com/
+  Zjbrook: http://zjbrook.club/
+# friends: false
 
 #是否开启“关于我”。
 aboutme: 爱折腾 爱旅行
@@ -195,7 +200,7 @@ aboutme: 爱折腾 爱旅行
 open_in_new:
   global: 0 # 0-2
   title: false # article title in homepage 主页文章标题
-  post: false # link within post/page 正文中的链接
+  post: true # link within post/page 正文中的链接
   tags: false # 标签
   categories: false # 分类
   article_nav: false # 导航
@@ -261,7 +266,7 @@ google_analytics:
 
 # 百度统计 http://sitecenter.baidu.com/sc-web/
 # 查看代码，填入 //hm.baidu.com/hm.js? 之后的内容
-baidu_tongji: 
+baidu_tongji: e1bd65b2ac5b87c4c3080e59bca61f25
 
 # 不蒜子网站计数设置
 # http://ibruce.info/2015/04/04/busuanzi/
