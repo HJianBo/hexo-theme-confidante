@@ -14,6 +14,16 @@
 
 [博客首页](http://home.jakeyu.top)
 
+## 预览
+### pc
+![](http://blogimg.jakeyu.top//confidante/pc.jpg)
+
+### ipad
+![](http://blogimg.jakeyu.top//confidante/ipad.jpg)
+
+### 手机
+![](http://blogimg.jakeyu.top//confidante/iphone.jpg)
+
 ### Install
 ```
 git clone https://github.com/JakeLaoyu/hexo-theme-confidante themes/confidante
