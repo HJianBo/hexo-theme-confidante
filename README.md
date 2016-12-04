@@ -24,13 +24,19 @@
 ### 手机
 ![](http://blogimg.jakeyu.top//confidante/iphone.jpg)
 
+## 使用
+
 ### Install
 ```
 git clone https://github.com/JakeLaoyu/hexo-theme-confidante themes/confidante
 ```
 
-Change theme field in Hexo root's _config.yml file. 
+修改根目录下` _config.yml`文件。 
 
 ```
 theme: confidante
 ```
+
+### 配置
+
+主题配置文件在主目录下的`_config.yml`文件，内部都有说明，请根据自己需要修改使用。
