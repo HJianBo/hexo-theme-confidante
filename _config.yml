@@ -7,7 +7,7 @@ Confidante: "3.5"
 ## About Page: `hexo new page about`
 ## Tags Cloud Page: `hexo new page tags`
 menu:
-  博客首页: http://home.jakeyu.top
+  博客首页: /
   文章归档: /archives
   留言板: /about
   标签: /tags
@@ -41,16 +41,16 @@ since: 2016
 ## https://github.com/hexojs/hexo-generator-feed
 
 subnav:
-  Email: ""
-  新浪微博: ""
-  GitHub: ""
+  GitHub: "https://github.com/HJianBo"
+  Twitter: "https://twitter.com/heeejianbo"
+  SegmentFault: "https://segmentfault.com/u/hjianbo"
   #V2EX: "#"
-  RSS: "/atom.xml"
   #知乎: "zhihu"
   #豆瓣: "douban"
-  #简书: "jianshu"
-  掘金: ""
-  SegmentFault: ""
+  简书: "http://www.jianshu.com/users/1f056018e69d/latest_articles"
+  #掘金: ""
+  RSS: "/atom.xml"
+  Email: "heeejianbo@gmail.com"
   #博客园: "cnblogs"
   #CSDN: ""
   #Coding: ""
@@ -62,7 +62,6 @@ subnav:
   #Quora: ""
   #Facebook: "#"
   #Google: "#"
-  #Twitter: "#"
   #LinkedIn: "#"
   #QQ: "#"
   #微信: "Wechat"
